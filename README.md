@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## js Reverse Exercise
 
 This project is a function with unit testing
