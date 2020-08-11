@@ -8,7 +8,7 @@ This project is a function with unit testing
 
 ### `npm install` or `yarn install`
 
-
+This command installs a package, and any packages that it depends on.
 
 ### `npm start` or `yarn start`
 
